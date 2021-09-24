@@ -1,7 +1,7 @@
 # Election_Analysis
 
 
-##Project Overview
+## Project Overview
 
 In this challenge, we were tasked with tallying up the votes in three different counties in order to see who the winner was. The 3 counties were Arapahoe, Denver, and Jefferson. In order to do this, we needed to use python to read the csv file and do the counting for us to calculate the amount of votes, and the percentage of votes each candidate received. 
 The below are the steps taken
